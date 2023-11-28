@@ -1,0 +1,21 @@
+08.06. 11.48.01.907 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-Starting RealtimeLoggerApplication using Java 20.0.2 on DESKTOP-01UERGT with PID 4268 (C:\Users\Rathod\Desktop\Project\RealtimeLogger\target\classes started by Rathod in C:\Users\Rathod\Desktop\Project\RealtimeLogger)
+08.06. 11.48.01.913 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-No active profile set, falling back to 1 default profile: "default"
+08.06. 11.48.02.091 [restartedMain] [INFO] [o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08.06. 11.48.02.092 [restartedMain] [INFO] [o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08.06. 11.48.04.549 [restartedMain] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port(s): 8686 (http)
+08.06. 11.48.04.721 [restartedMain] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 2629 ms
+08.06. 11.48.05.277 [restartedMain] [INFO] [o.s.b.d.a.OptionalLiveReloadServer]-LiveReload server is running on port 35729
+08.06. 11.48.05.333 [restartedMain] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port(s): 8686 (http) with context path ''
+08.06. 11.48.05.349 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-Started RealtimeLoggerApplication in 4.613 seconds (JVM running for 7.522)
+08.06. 11.48.34.660 [http-nio-8686-exec-1] [INFO] [c.l.controller.WelcomeController]-this is the entring pointStaringpoint of method getAllLocation {} 
+08.06. 11.48.34.662 [http-nio-8686-exec-1] [INFO] [c.l.controller.WelcomeController]-this is the endpointendingpoint
+08.06. 11.55.56.018 [File Watcher] [INFO] [o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener]-Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+08.06. 11.55.56.691 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-Starting RealtimeLoggerApplication using Java 20.0.2 on DESKTOP-01UERGT with PID 4268 (C:\Users\Rathod\Desktop\Project\RealtimeLogger\target\classes started by Rathod in C:\Users\Rathod\Desktop\Project\RealtimeLogger)
+08.06. 11.55.56.692 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-No active profile set, falling back to 1 default profile: "default"
+08.06. 11.55.57.229 [restartedMain] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat initialized with port(s): 8686 (http)
+08.06. 11.55.57.266 [restartedMain] [INFO] [o.s.b.w.s.c.ServletWebServerApplicationContext]-Root WebApplicationContext: initialization completed in 567 ms
+08.06. 11.55.57.486 [restartedMain] [INFO] [o.s.b.d.a.OptionalLiveReloadServer]-LiveReload server is running on port 35729
+08.06. 11.55.57.524 [restartedMain] [INFO] [o.s.b.w.e.tomcat.TomcatWebServer]-Tomcat started on port(s): 8686 (http) with context path ''
+08.06. 11.55.57.536 [restartedMain] [INFO] [com.logger.RealtimeLoggerApplication]-Started RealtimeLoggerApplication in 0.986 seconds (JVM running for 479.71)
+08.06. 11.55.57.539 [restartedMain] [INFO] [o.s.b.d.a.ConditionEvaluationDeltaLoggingListener]-Condition evaluation unchanged
+08.06. 11.55.58.155 [RMI TCP Connection(17)-127.0.0.1] [INFO] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin]-Application shutdown requested.
